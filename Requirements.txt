@@ -1,0 +1,11 @@
+numpy>=1.23
+pandas
+opencv-python
+matplotlib
+scikit-learn
+torch>=1.13
+torchvision
+tqdm
+pyyaml
+scipy
+tensorboard
